@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Josefin Slab", serif;
+  font-size: 5.625rem;
+  color: #206a5d;
+}
+
+h2 {
+  font-family: "Oswald", sans-serif;
+  font-size: 2.5rem;
+  color: #206a5d;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: "Oswald", sans-serif;
+  font-size: 1.5rem;
+  color: #1f4068;
+  margin: 0;
+}
+
+p {
+  font-size: 1.25rem;
+  margin: 0;
+  line-height: 2;
+}
+
+a {
+  font-family: "Oswald", sans-serif;
+  font-size: 1.5rem;
+  color: white;
+  margin: auto 10px auto 10px;
+}
+
+a:hover {
+  color: #1f4068;
+}
+
+hr {
+  width: 45px;
+  border-width: 5px;
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  margin: 100px auto 100px auto;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+.top-container {
+  background-color: #ebecf1;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container {
+  background-color: white;
+}
+
+.bottom-container {
+  margin-top: 75px;
+  background-color: #206a5d;
+  padding-top: 50px;
+}
+.top-cloud {
+  position: absolute;
+  right: 25%;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 25%;
+  bottom: 250px;
+}
+
+.profile-picture {
+  margin-top: 50px;
+  height: 200px;
+  width: 200px;
+}
+
+.html-css-icon {
+  height: 7rem;
+  width: auto;
+  float: left;
+}
+
+.microphone-icon {
+  height: 7rem;
+  width: auto;
+  float: right;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 0px auto 0px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.top-skill-text {
+  margin-left: 160px;
+}
+
+.bottom-skill-text {
+  margin: 50px 100px auto auto;
+}
+
+.contact-text {
+  margin: 50px auto 50px auto;
+  width: 30%;
+}
+
+.footer-link {
+  text-decoration: none;
+}
+.btn {
+  border-radius: 8px;
+  background-color: #206a5d;
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.copyright-text {
+  margin-top: 50px;
+  font-family: "Oswald", sans-serif;
+  padding-bottom: 10px;
+}
